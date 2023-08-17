@@ -1,2 +1,5 @@
-print("hello")
-print("hel")
+import math
+def factorial(n):
+    return(math.factorial(n))
+num=5
+print=("factorial of",num,"is",factorial(num))
